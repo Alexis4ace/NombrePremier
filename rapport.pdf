@@ -1,0 +1,10 @@
+				Rapport de projet
+				
+				
+Hugo Robert, Alexis Bottin
+
+Pour faire ce projet, nous avons majoritairement travaillé ensemble, nous nous sommes repartis le travail sur le moment, nos fonctions ont été travaillés à deux.
+Nous nous sommes réunis régulièrement dans des salles de TP pour pouvoir travailler sur ubuntu pour faire avancer le projet.
+Le projet marche, nous avons rencontré des difficultés notamment au niveau des tubes et des sémaphores, mais nous avons réussi à régler tous ces problèmes et avons un code fonctionnel.
+Nos seuls doutes se trouve sur les sémaphores, nous ne savons pas si notre code en comporte assez mais nous n'avons pas rencontré de problèmes lors de la compilation ou des tests que nous avons effectué, nous pouvons lancer plusieurs clients et effectuer les ordres sans qu'il n'y ait d'erreur.
+Nos fichiers Master worker et Master client contiennent les codes de communications entre le master avec le worker et le master avec le client, ils contiennent les fonctions pour nos tubes et nos sémaphores et nous aide pour les codes du master, du client et du worker.
